@@ -16,5 +16,6 @@ export const Container = styled.div`
 
     label {
         color: #CCC;
+        text-decoration: line-through;
     }
 `;
